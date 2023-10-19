@@ -11,3 +11,8 @@ Hello, person1. My name is person2.
 
 
 """
+#author Jon Morris 
+person1 = input ("what is your name?")
+person2 = input ("and what is your name?")
+send = "Hello, {0}. My name is {1}.".format(person1, Person2)
+print(sent)
